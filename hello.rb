@@ -1,1 +1,1 @@
-puts "hello.rb"
+Hello world
